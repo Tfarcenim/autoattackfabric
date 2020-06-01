@@ -18,11 +18,13 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "tfar.example.ExampleMod"
+    ],
+    "client": [
+      "tfar.autoattack.ExampleMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "autoattack.mixins.json"
   ],
 
   "depends": {
