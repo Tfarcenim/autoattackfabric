@@ -20,7 +20,7 @@
     "main": [
     ],
     "client": [
-      "tfar.autoattack.ExampleMod"
+      "tfar.autoattack.AutoAttack"
     ]
   },
   "mixins": [
